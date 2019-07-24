@@ -1,0 +1,12 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Arial";
+}
+
+.wrapper {
+    width: 1270px;
+    margin: 0px auto;
+}
+
